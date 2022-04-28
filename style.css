@@ -1,0 +1,87 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+body 
+{
+    background-image: url(img/fond.png);
+    color: #424953;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: ;
+    font-size: ;
+}
+header 
+{
+    background-color: #25b3b4;
+    border-top: 5px solid #1b9ca2;
+    border-bottom: 5px solid #1b9ca2;
+    margin-top: 100px;
+    text-align: center;
+}
+header a 
+{
+    color: white;
+    display: inline-block;
+    padding: 15px;
+    font-size: 1.4em;
+}
+section 
+{
+    font-family: "Slabo 27px";
+    text-align: center;
+    margin-top: 2%;
+}
+
+.menu {
+    width: 10px;
+    margin-left: 20px;
+    height: 800px;
+}
+.container 
+{
+    max-width: 1100PX;
+    min-width: 800px;
+    margin: 0 auto;
+}
+#fishfish {
+    background-color: #b6dfdd;
+    vertical-align: top;
+    width: 65%;
+    padding: 2.5;
+    margin: 50px 2% 0 0;
+    display: inline-block;
+}
+
+#fishfish img {
+    float: left;
+    border-radius: 50%;
+}
+#fishfish article {
+
+    vertical-align: Top;
+    width: 40%;
+    display: inline-block;
+}
+aside 
+{
+    background-color: cadetblue;
+    width: 300px;
+    margin: 0px;
+    display: inline-block;
+    border: solid #1b9ca2;
+}
+
+aside img 
+{
+    float: right;
+    margin: -90px -75px 0 0;
+}
+span
+{
+    color:#1b9ca2;
+}
+h4
+{
+    color: white;
+}
